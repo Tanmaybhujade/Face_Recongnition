@@ -1,6 +1,6 @@
 # Face Recogniton 
 
-# A very Simple Gui app for Face Detection 
+# A very Simple  app for Face Detection 
 
   - Collect Face Data
   - Build Face Classifier 
@@ -26,7 +26,7 @@ $ pip install -r  requirements.txt
 $ python app-gui.py
 ```
 
-# APP GUI
+# APP 
 
 
 ### Recognition <br>
