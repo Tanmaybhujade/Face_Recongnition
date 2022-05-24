@@ -40,12 +40,6 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : Tanmaybhujade
-
-
-
-
-**Free Software, Hell Yeah!**
 
 
 
